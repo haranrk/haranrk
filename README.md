@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Currently working at Money Forward i, building [this](https://i.moneyforward.com/en/)
+
+Here is a [list of mac apps I recommend](https://github.com/haranrk/apps-i-use) if you like hunting for cool new apps.
 <!--
 **haranrk/haranrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
